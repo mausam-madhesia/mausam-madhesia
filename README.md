@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mausam
 
-<!--
-**mausam-madhesia/mausam-madhesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech, Metallurgical Engineering & Materials Science, IIT Bombay (Class of 2027)
 
-Here are some ideas to get you started:
+I've worked on the business side of problems: benchmarking financial performance across insurance companies, researching how GenAI can change insurance distribution, and prioritising product features from user feedback at an early-stage fintech/edtech startup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm learning to build the solutions myself, using AI tools to create small, practical utilities for finance and business analysis.
+
+**Currently learning:** Python, Git, and AI-assisted development
+
+**Interested in:** fintech, insurance tech, and AI-powered products that solve real customer problems
+
+**Reach me:** mausamiitbombay15@gmail.com
